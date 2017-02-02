@@ -1,6 +1,6 @@
 # TWStreaming
 Twitter Streaming API app for Android.
-This app uses Twitter Streaming API to diaply in real-time the last 5 tweets about a topic to choose at runtime via a dialog.
+This app uses Twitter Streaming API to display in real-time the last 5 tweets about a topic to choose at runtime via a dialog.
 
 ## Features
 - MVP Architecture
